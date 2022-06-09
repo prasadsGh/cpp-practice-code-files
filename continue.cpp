@@ -18,3 +18,14 @@ for(int i=1;i<=n;i++){
 }
 return 0;
 }
+
+/*
+OUTPUT:
+Enter the number10
+ENter the number whose multiple are need to be skipped2
+1 3 5 7 9 
+
+
+
+
+*/
